@@ -31,14 +31,14 @@ OPTIONS (
 );
 
 
-2 - Create a new input table and add a single entry for a batch prediction job.
+2 - Create a new input table. For this exmple we'll name it "batch_input_table".
 
 CREATE TABLE `YOUR_PROJECT_NAME.gemini_batch_test.batch_input_table` (
     request STRING
     );
 
 
-3 - Create a new table in an exisitng dataset named gemini_batch_test
+3 - Add an entry for a batch prediction job. In this example we will add just a single entry.
 
 INSERT INTO `YOUR_PROJECT_NAME.gemini_batch_test.batch_input_table` (request)
 VALUES ('{"contents":[{"role":"user","parts":{"text":"Give me a recipe for banana bread."}}],"system_instruction":{"parts":[{"text":"You are a chef."}]},"generation_config":{"top_k":5}}');
