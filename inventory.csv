@@ -1,0 +1,119 @@
+Vehicle Manufacturer,Vehicle Model,Part Name,Part Number,Part Description
+Ford,F-150,Brake Pad,MCB9876,High-performance brake pads for heavy-duty applications
+GMC,Sierra,Brake Pad,ACB1234,Durable brake pads for everyday driving
+Honda,Accord,Brake Pad,HPD5678,Ceramic brake pads for reduced noise and dust
+Toyota,Tacoma,Brake Pad,TBR9012,All-terrain brake pads for off-road adventures
+Ford,Mustang,Fuel Injector,FMU3456,High-flow fuel injectors for increased horsepower
+GMC,Yukon,Fuel Injector,GYI7890,Precision fuel injectors for optimal combustion
+Honda,Civic,Fuel Injector,HCI1011,Fuel-efficient injectors for improved gas mileage
+Toyota,Corolla,Fuel Injector,TCI1213,Reliable fuel injectors for smooth engine operation
+Ford,Explorer,Alternator,FEA1415,High-output alternator for increased electrical power
+GMC,Acadia,Alternator,GAL1617,Durable alternator for reliable charging
+Honda,Pilot,Alternator,HPA1819,Efficient alternator for reduced battery drain
+Toyota,RAV4,Alternator,TRA2021,Compact alternator for optimal engine bay clearance
+Ford,F-250,Brake Pad,MCB1011,Heavy-duty brake pads for towing and hauling
+GMC,Sierra 2500,Brake Pad,ACB1314,Extra-durable brake pads for demanding applications
+Honda,Odyssey,Brake Pad,HPD6789,Quiet brake pads for a comfortable driving experience
+Toyota,Highlander,Brake Pad,TBR1012,Hybrid brake pads for regenerative braking systems
+Ford,Expedition,Fuel Injector,FMU4567,Advanced fuel injectors for improved fuel economy
+GMC,Envoy,Fuel Injector,GYI8910,Long-lasting fuel injectors for reliable performance
+Honda,CR-V,Fuel Injector,HCI1112,Responsive fuel injectors for a smooth ride
+Toyota,4Runner,Fuel Injector,TCI1314,Off-road fuel injectors for extreme conditions
+Ford,Fusion,Alternator,FEA1516,Powerful alternator for modern electronic systems
+GMC,Terrain,Alternator,GAL1718,Reliable alternator for everyday use
+Honda,Accord Hybrid,Alternator,HPA1920,High-efficiency alternator for hybrid vehicles
+Toyota,Camry,Alternator,TRA2122,Dependable alternator for a wide range of applications
+Ford,F-350,Brake Pad,MCB1112,Maximum-duty brake pads for extreme applications
+GMC,Sierra 3500,Brake Pad,ACB1415,Ultra-durable brake pads for heavy-duty use
+Honda,Ridgeline,Brake Pad,HPD7890,Sport brake pads for enhanced stopping power
+Toyota,Tundra,Brake Pad,TBR1113,Rugged brake pads for off-road adventures
+Ford,Bronco,Fuel Injector,FMU5678,High-performance fuel injectors for off-road capability
+GMC,Canyon,Fuel Injector,GYI9011,Precise fuel injectors for optimal engine output
+Honda,Passport,Fuel Injector,HCI1213,All-terrain fuel injectors for reliable performance
+Toyota,Tacoma TRD Pro,Fuel Injector,TCI1415,High-flow fuel injectors for increased horsepower
+Ford,Edge,Alternator,FEA1617,High-output alternator for advanced electrical systems
+GMC,Yukon Denali,Alternator,GAL1819,Premium alternator for luxury vehicles
+Honda,Pilot Elite,Alternator,HPA2021,Powerful alternator for demanding electronic systems
+Toyota,RAV4 Prime,Alternator,TRA2223,High-efficiency alternator for plug-in hybrid vehicles
+Ford,F-450,Brake Pad,MCB1213,Extreme-duty brake pads for maximum load capacity
+GMC,Sierra Denali,Brake Pad,ACB1516,Luxury brake pads for superior stopping power
+Honda,Accord Touring,Brake Pad,HPD8910,Premium brake pads for a refined driving experience
+Toyota,Avalon,Brake Pad,TBR1214,Smooth and quiet brake pads for a comfortable ride
+Ford,Mustang Mach-E,Fuel Injector,FMU6789,Electric fuel injectors for zero-emission performance
+Honda,Civic Type R,Fuel Injector,HCI1314,High-performance fuel injectors for track-focused vehicles
+Toyota,Supra,Fuel Injector,TCI1516,High-flow fuel injectors for boosted engines
+Ford,Ranger,Alternator,FEA1718,Durable alternator for everyday use and off-road adventures
+GMC,AT4,Alternator,GAL1920,High-output alternator for off-road equipment and accessories
+Honda,HR-V,Alternator,HPA2122,Compact alternator for fuel-efficient vehicles
+Toyota,Corolla Cross,Alternator,TRA2324,Reliable alternator for a dependable and practical driving experience
+Ford,F-150 Lightning,Brake Pad,MCB1314,Electric vehicle brake pads for regenerative braking
+GMC,Sierra EV,Brake Pad,ACB1617,Advanced brake pads for quiet and efficient operation
+Honda,e,Brake Pad,HPD9011,High-performance brake pads for electric vehicles
+Toyota,bZ4X,Brake Pad,TBR1315,Electric vehicle brake pads designed for optimal energy recovery
+Ford,Maverick,Fuel Injector,FMU7890,Fuel-efficient injectors for a compact pickup truck
+GMC,Terrain SLE,Fuel Injector,GYI1112,Standard fuel injectors for everyday driving
+Honda,Civic Si,Fuel Injector,HCI1415,Sport-tuned fuel injectors for enhanced performance
+Toyota,GR86,Fuel Injector,TCI1617,High-performance fuel injectors for a sports coupe
+Ford,Escape,Alternator,FEA1819,Efficient alternator for a versatile crossover
+GMC,Acadia SLE,Alternator,GAL2021,Reliable alternator for a family-oriented SUV
+Honda,CR-V Hybrid,Alternator,HPA2223,High-efficiency alternator for a fuel-efficient crossover
+Toyota,Venza,Alternator,TRA2425,Dependable alternator for a stylish and practical SUV
+Ford,Bronco Sport,Brake Pad,MCB1415,Off-road brake pads for a compact SUV
+GMC,Canyon AT4,Brake Pad,ACB1718,High-performance brake pads for rugged adventures
+Honda,Passport Trailsport,Brake Pad,HPD1012,All-terrain brake pads for a capable off-roader
+Toyota,4Runner TRD Sport,Brake Pad,TBR1416,Off-road brake pads for enhanced stopping power
+Ford,Explorer ST,Fuel Injector,FMU8910,High-performance fuel injectors for a sporty SUV
+GMC,Yukon AT4,Fuel Injector,GYI1213,Off-road fuel injectors for extreme capability
+Honda,Pilot TrailSport,Fuel Injector,HCI1516,All-terrain fuel injectors for a rugged family SUV
+Toyota,Sequoia TRD Pro,Fuel Injector,TCI1718,High-flow fuel injectors for a large and powerful SUV
+Ford,Expedition Timberline,Alternator,FEA1920,High-output alternator for off-road and towing applications
+GMC,Sierra HD,Alternator,GAL2122,Heavy-duty alternator for maximum power and reliability
+Honda,Odyssey Elite,Alternator,HPA2324,Powerful alternator for a premium minivan
+Toyota,Sienna,Alternator,TRA2526,Dependable alternator for a family-friendly minivan
+Ford,F-250 Super Duty,Brake Pad,MCB1516,Heavy-duty brake pads for towing and hauling
+GMC,Sierra 2500 HD,Brake Pad,ACB1819,Extra-durable brake pads for demanding applications
+Honda,Ridgeline RTL-E,Brake Pad,HPD1113,Premium brake pads for a comfortable and refined driving experience
+Toyota,Tundra Capstone,Brake Pad,TBR1517,Luxury brake pads for superior stopping power
+Ford,Bronco Raptor,Fuel Injector,FMU9011,Extreme-performance fuel injectors for off-road dominance
+GMC,Canyon Denali,Fuel Injector,GYI1314,Premium fuel injectors for a refined driving experience
+Honda,Passport Elite,Fuel Injector,HCI1617,All-terrain fuel injectors for a luxurious SUV
+Toyota,Tacoma TRD Off-Road,Fuel Injector,TCI1819,Off-road fuel injectors for rugged performance
+Ford,Edge ST-Line,Alternator,FEA2021,Powerful alternator for a sporty crossover
+Honda,Pilot EX-L,Alternator,HPA2425,Reliable alternator for a spacious family SUV
+Toyota,Highlander XLE,Alternator,TRA2627,Dependable alternator for a versatile and practical SUV
+Ford,F-350 Super Duty,Brake Pad,MCB1617,Extreme-duty brake pads for maximum load capacity
+GMC,Sierra 3500 HD,Brake Pad,ACB1920,Ultra-durable brake pads for heavy-duty use
+Honda,Accord Sport,Brake Pad,HPD1214,Sport brake pads for enhanced stopping power
+Toyota,Avalon XLE,Brake Pad,TBR1618,Smooth and quiet brake pads for a comfortable ride
+Ford,Mustang GT,Fuel Injector,FMU1012,High-performance fuel injectors for a powerful muscle car
+GMC,Hummer H3,Fuel Injector,GYI1415,Off-road fuel injectors for extreme capability
+Honda,Civic Hatchback,Fuel Injector,HCI1718,Responsive fuel injectors for a sporty and fun driving experience
+Toyota,Supra GR,Fuel Injector,TCI1920,High-flow fuel injectors for a track-focused sports car
+Ford,Ranger Raptor,Alternator,FEA2122,High-output alternator for off-road and adventure applications
+GMC,AT4X,Alternator,GAL2324,Extreme-performance alternator for maximum off-road capability
+Honda,HR-V Sport,Alternator,HPA2526,Sporty alternator for a fun and engaging driving experience
+Toyota,Corolla Apex,Alternator,TRA2728,Powerful alternator for a performance-oriented compact car
+Ford,F-150 Platinum,Brake Pad,MCB1718,Luxury brake pads for superior stopping power
+GMC,Sierra Denali Ultimate,Brake Pad,ACB2021,Ultimate brake pads for the ultimate luxury pickup truck
+Honda,Accord Hybrid Touring,Brake Pad,HPD1315,High-efficiency brake pads for a fuel-efficient sedan
+Toyota,Avalon Hybrid,Brake Pad,TBR1719,Hybrid brake pads for regenerative braking systems
+Ford,Maverick Hybrid,Fuel Injector,FMU1113,Fuel-efficient injectors for a hybrid pickup truck
+GMC,Terrain Denali,Fuel Injector,GYI1516,Premium fuel injectors for a luxurious crossover
+Honda,Civic Sport Touring,Fuel Injector,HCI1819,Sport-tuned fuel injectors for a dynamic driving experience
+Toyota,GR Supra,Fuel Injector,TCI2021,High-performance fuel injectors for a thrilling sports car
+Ford,Escape Titanium,Alternator,FEA2223,High-output alternator for a premium crossover
+GMC,Acadia AT4,Alternator,GAL2425,Off-road alternator for adventurous family vehicles
+Honda,CR-V EX-L,Alternator,HPA2627,Reliable alternator for a versatile and popular crossover
+Toyota,Venza XLE,Alternator,TRA2829,Dependable alternator for a stylish and sophisticated SUV
+Ford,Bronco Everglades,Brake Pad,MCB1819,Extreme-terrain brake pads for off-road adventures
+GMC,Canyon Elevation,Brake Pad,ACB2122,Standard brake pads for everyday driving
+Honda,Passport EX-L,Brake Pad,HPD1416,All-terrain brake pads for a versatile SUV
+Toyota,4Runner SR5,Brake Pad,TBR1820,Rugged brake pads for on- and off-road performance
+Ford,Explorer XLT,Fuel Injector,FMU1214,Reliable fuel injectors for a family-oriented SUV
+GMC,Yukon SLT,Fuel Injector,GYI1617,Standard fuel injectors for everyday driving
+Honda,Pilot Sport,Fuel Injector,HCI1920,Responsive fuel injectors for a sporty family SUV
+Toyota,Sequoia Platinum,Fuel Injector,TCI2122,Powerful fuel injectors for a full-size SUV
+Ford,Expedition Max,Alternator,FEA2324,High-output alternator for a large family vehicle
+GMC,Sierra 1500,Alternator,GAL2526,Durable alternator for a dependable pickup truck
+Honda,Odyssey Touring,Alternator,HPA2728,Powerful alternator for a family-friendly minivan
+Toyota,Sienna Woodland Edition,Alternator,TRA2930,All-terrain alternator for outdoor adventures

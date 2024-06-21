@@ -1,0 +1,10 @@
+# General libraries
+time
+json
+ipython
+
+# Google Cloud libraries
+google-cloud-bigquery
+
+# Vertex AI libraries
+google-cloud-aiplatform
